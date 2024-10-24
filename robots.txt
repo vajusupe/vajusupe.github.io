@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://vajusupe.github.io/sitemap/sitemap_index.vajusupe
+Sitemap: https://vajusupe.github.io/qEL/sitemap_index.vajusupe
+Sitemap: https://vajusupe.github.io/NPx/sitemap_index.vajusupe
+Sitemap: https://vajusupe.github.io/AaP/sitemap_index.vajusupe
+Sitemap: https://vajusupe.github.io/fQh/sitemap_index.vajusupe
+Sitemap: https://vajusupe.github.io/ItX/sitemap_index.vajusupe
+Sitemap: https://vajusupe.github.io/lcB/sitemap_index.vajusupe
+Sitemap: https://vajusupe.github.io/VCH/sitemap_index.vajusupe
+Sitemap: https://vajusupe.github.io/oTw/sitemap_index.vajusupe
+Sitemap: https://vajusupe.github.io/lEW/sitemap_index.vajusupe
+Sitemap: https://vajusupe.github.io/Guj/sitemap_index.vajusupe
+Sitemap: https://vajusupe.github.io/uZl/sitemap_index.vajusupe
+Sitemap: https://vajusupe.github.io/UHj/sitemap_index.vajusupe
+Sitemap: https://vajusupe.github.io/AQs/sitemap_index.vajusupe
+Sitemap: https://vajusupe.github.io/YHd/sitemap_index.vajusupe
+Sitemap: https://vajusupe.github.io/VPu/sitemap_index.vajusupe
+Sitemap: https://vajusupe.github.io/baN/sitemap_index.vajusupe
+Sitemap: https://vajusupe.github.io/qwu/sitemap_index.vajusupe
+Sitemap: https://vajusupe.github.io/aTZ/sitemap_index.vajusupe
+Sitemap: https://vajusupe.github.io/MhF/sitemap_index.vajusupe
+Sitemap: https://vajusupe.github.io/yUJ/sitemap_index.vajusupe
